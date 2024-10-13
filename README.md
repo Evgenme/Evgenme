@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I'm a DS & MLOps specialist
+I'm a Data Science & MLOps specialist
+- 💰 Before diving into tech, I spent over 10 years in marketing, which honed my analytical skills and creativity.
+- 💾 I have hands-on experience with Python/SQL, Docker/FastAPI, Airflow, MLflow, DVC, Prometheus, and Grafana.
+- 😄 I love generating and testing hypotheses, everywhere.
+- 🤙 Excited to join forces with awesome people in a great team!
+- ⚡ Fun fact: I’m also a huge fan of board games, so if you ever need a strategy partner, I’m your person!
+
 <!--
 **Evgenme/Evgenme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
